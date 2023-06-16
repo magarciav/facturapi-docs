@@ -27,7 +27,7 @@ La API de Facturapi te permite crear, consultar y administrar los siguientes rec
 Existen 2 roles distintos con los que puedes identificarte en la API:
 
 - **Organización**. Identificarte como **organización** te permite emitir facturas usando la
-  información fiscal previamente configurada para la organización, así como crear, consular y
+  información fiscal previamente configurada para la organización, así como crear, consultar y
   realizar operaciones sobre recursos que le pertenezcan. Para identificarte con este rol,
   deberás utilizar la **Test Secret Key** o la **Live Secret Key** de la organización,
   dependiendo del **ambiente** que quieras utilizar.
